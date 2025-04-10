@@ -7,4 +7,4 @@ Aqui você encontrará exemplos práticos e soluções de problemas que utilizo 
 Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 ## Progresso
-![Progresso](https://geps.dev/progress/75)
+![Progresso](https://geps.dev/progress/5)
