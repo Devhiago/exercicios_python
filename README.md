@@ -1,3 +1,11 @@
-# Repositorio para treinar exercicios python e git
+# Repositório de Exercícios Educacionais em Python
 
-Aqui eu colocarei todos meus exercicios que eu for fazendo ao longo da minha jornada.
+Este repositório foi criado com o objetivo de armazenar e organizar os exercícios que realizo durante minha jornada de aprendizado em Python e Git. 
+
+Aqui você encontrará exemplos práticos e soluções de problemas que utilizo para consolidar meus conhecimentos e melhorar minhas habilidades de programação.
+
+Sinta-se à vontade para explorar e acompanhar meu progresso!
+
+## Progresso
+
+![5%](https://progress-bar.dev/5)
