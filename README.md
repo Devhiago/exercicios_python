@@ -7,5 +7,4 @@ Aqui você encontrará exemplos práticos e soluções de problemas que utilizo 
 Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 ## Progresso
-
-![Progresso](https://progress-bar.dev/5/?title=Progresso)
+Status do Progresso: [█░░░░░░░░░░░░░░░░] 5%
