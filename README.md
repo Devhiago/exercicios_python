@@ -8,4 +8,4 @@ Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 ## Progresso
 
-![5%](https://progress-bar.dev/5)
+![Progresso](https://progress-bar.dev/5/?title=Progresso)
